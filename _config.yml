@@ -39,7 +39,7 @@ twitter:
   username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name:  # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/DavidDarnes
     - https://www.facebook.com/daviddarnes
@@ -75,9 +75,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Anvitha Sudakar" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Personal website of Anvitha Sudakar" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -101,12 +101,7 @@ navigation_footer:
   Created by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  GitHub: https://github.com/anvitha-s
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
