@@ -13,3 +13,5 @@ I do enjoy discussing books, though not as much as reading them, and I look forw
 - Why I write, George Orwell
 - The Story of the Human Body: Evolution, Health, and Disease, Daniel E. Lieberman
 - They Both Die at the End, Adam Silvera
+
+This site is a work in progress please bear with my unskilled web design. Cheers! 
