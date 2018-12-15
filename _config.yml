@@ -35,18 +35,11 @@ plugins:
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name:  # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
-
+  
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
@@ -78,10 +71,10 @@ lang: en-GB # Set the site language
 title: "Anvitha Sudakar" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Personal website of Anvitha Sudakar" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://anvitha-s.github.io/alembic/" # Site url, also used in jekyll-seo-tag #TODO
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/anvitha-s/alembic"
+email: "anvi.1208@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
@@ -91,14 +84,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  Projects: /projects/
+  Resources: /resources/
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by Anvitha Sudakar: https://github.com/anvitha-s/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/anvitha-s
