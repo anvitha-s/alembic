@@ -72,8 +72,8 @@ title: "Anvitha Sudakar" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Personal website of Anvitha Sudakar" # Site description and default description, also used in jekyll-seo-tag
 url: "https://anvitha-s.github.io/alembic" # Site url, also used in jekyll-seo-tag #TODO
-baseurl: "https://anvitha-s.github.io/alembic"
-repo: "https://github.com/anvitha-s/alembic"
+baseurl: "https://anvitha-s.github.io"
+repo: "/alembic"
 email: "anvi.1208@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
