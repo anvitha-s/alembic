@@ -71,7 +71,7 @@ lang: en-GB # Set the site language
 title: "Anvitha Sudakar" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Personal website of Anvitha Sudakar" # Site description and default description, also used in jekyll-seo-tag
-url: "https://anvitha-s.github.io" # Site url, also used in jekyll-seo-tag #TODO
+url: "http://home.iitb.ac.in" # Site url, also used in jekyll-seo-tag #TODO
 baseurl: ""
 repo: "/alembic"
 email: "anvi.1208@gmail.com"
@@ -83,8 +83,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /alembic/
-  Projects: /alembic/projects/
+  Home: /~anvitha_s/
+  Projects: /~anvitha_s/projects/
   CV : https://bighome.iitb.ac.in/index.php/s/sgVjXp6vEC2QpoC
 
 navigation_footer:
