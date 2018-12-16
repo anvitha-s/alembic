@@ -6,6 +6,7 @@ feature_text: |
 feature_image: 
   "https://picsum.photos/1300/400?image=989"
 ---
+A list of research projects and course projects with the latest first.
 
 ### Dynamics of Morphogenesis
 ### Avascular Tumor Growth
