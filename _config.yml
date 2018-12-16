@@ -83,8 +83,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /~anvitha_s/
-  Projects: /~anvitha_s/projects/
+  Home: http://home.iitb.ac.in/~anvitha_s/
+  Projects: http://home.iitb.ac.in/~anvitha_s/projects/
   CV : https://bighome.iitb.ac.in/index.php/s/sgVjXp6vEC2QpoC
 
 navigation_footer:
