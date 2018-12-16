@@ -1,5 +1,6 @@
 ---
 title: Anvitha Sudakar
+feature_text:
   ## Anvitha Sudakar
   As the Cuban kid always said, "Here we meet once again!"
 feature_image: "https://picsum.photos/1300/400?image=989"
