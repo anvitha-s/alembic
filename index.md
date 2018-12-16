@@ -1,5 +1,5 @@
 ---
-title: Anvitha Sudakar
+title: 
 feature_text: |
   ## Anvitha Sudakar 
   As the Cuban kid always said, "Here we meet once again!" 
