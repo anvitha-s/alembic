@@ -71,7 +71,7 @@ lang: en-GB # Set the site language
 title: "Anvitha Sudakar" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Personal website of Anvitha Sudakar" # Site description and default description, also used in jekyll-seo-tag
-url: "https://anvitha-s.github.io/" # Site url, also used in jekyll-seo-tag #TODO
+url: "https://anvitha-s.github.io/alembic" # Site url, also used in jekyll-seo-tag #TODO
 baseurl: ""
 repo: "https://github.com/anvitha-s/alembic"
 email: "anvi.1208@gmail.com"
