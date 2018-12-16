@@ -86,7 +86,7 @@ navigation_header:
   Home: /alembic/
   Projects: /alembic/projects/
   Resources: /alembic/resources/
-  CV : /alembic/CV.pdf
+  CV : /alembic/CV
 
 navigation_footer:
   Created by Anvitha Sudakar: https://github.com/anvitha-s/
