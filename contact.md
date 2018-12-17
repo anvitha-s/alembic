@@ -14,4 +14,4 @@ anvitha_s@iitb.ac.in , anvi.1208@gmail.com
 +918828290494  
 
 You can also fill out the contact form : 
-{% raw %}{% include site-form.html %}{% endraw %}
+{% include site-form.html %}
