@@ -1,13 +1,12 @@
 ---
 title: 
 feature_text: |
-  ## Contact
+  ## Contact  
   Here's how you can reach me!
 feature_image: 
   "https://picsum.photos/1300/400?image=989"
 ---
-
-
+You can contact me at : 
 ### Address
 Hostel 10, IIT Bombay,  
 Powai, Mumbai 400076  
