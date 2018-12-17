@@ -1,9 +1,13 @@
 ---
+title: 
 feature_text: |
-## Contact
-Here's how you can reach me!
----  
-  
+  ## Contact
+  Here's how you can reach me!
+feature_image: 
+  "https://picsum.photos/1300/400?image=989"
+---
+
+
 ### Address
 Hostel 10, IIT Bombay,  
 Powai, Mumbai 400076  
