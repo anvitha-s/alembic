@@ -33,8 +33,8 @@ A list of my research and course projects with the latest first.
   
 ### Multi-scale mechanics of respiration
   I pursued this project as a research intern at the Datta Lab (Soft Materials in Complex Spaces) at Princeton University.  
-  Respiratory disorders change mechanical properties of the lungs and the goal of this project was to establish a relationship between these altered properties and respiration dynamics that is quantified by the pressure-volume curve and distribution of avalanches during inspiration.
-  We're also preparing a journal submission  : 
+  Respiratory disorders change mechanical properties of the lungs and the goal of this project was to establish a relationship between these altered properties and respiration dynamics that is quantified by the pressure-volume curve and distribution of avalanches during inspiration.  
+  We're also preparing a journal submission :  
   "Dynamic network modeling of the multi-scale mechanics of respiration”, Anvitha Sudakar, Nathanael Ji, and Sujit S. Datta, *in preparation for submission to Journal of Fluid Mechanics*  
   Abstract : 
   Respiratory disorders like Cystic Fibrosis and Asthma are characterized by changes in the mechanical properties of lung tissues and secretions, which in turn lead to difficulties in breathing. However, a quantitative connection between altered lung mechanics and the
