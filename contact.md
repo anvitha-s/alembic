@@ -18,4 +18,4 @@ Maharashtra, India
 +918828290494  
 
 You can also fill out the contact/feedback form :  
-{% http://home.iitb.ac.in/~anvitha_s/site-form.html %}
+{% home.iitb.ac.in/~anvitha_s/site-form.html %}
