@@ -16,6 +16,3 @@ Maharashtra, India
 [anvi.1208@gmail.com](anvi.1208@gmail.com)
 ### Phone  
 +918828290494  
-
-You can also fill out the contact/feedback form :  
-{% home.iitb.ac.in/~anvitha_s/site-form.html %}
