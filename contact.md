@@ -12,9 +12,10 @@ Hostel 10, IIT Bombay,
 Powai, Mumbai 400076  
 Maharashtra, India  
 ### Mail  
-anvitha_s@iitb.ac.in , anvi.1208@gmail.com
+[anvitha_s@iitb.ac.in](mailto:anvitha_s@iitb.ac.in)  
+[anvi.1208@gmail.com](anvi.1208@gmail.com)
 ### Phone  
 +918828290494  
 
 You can also fill out the contact form :  
-{% include home.iitb.ac.in/~anvitha_s/site-form.html %}
+{% include site-form.html %}
