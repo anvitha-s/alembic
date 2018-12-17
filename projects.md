@@ -57,7 +57,7 @@ respiration
   For my course project in *Analytical Mechanics* I studied the mechanics and dynamics of Euler's disc. The mechanics of a rolling Euler's disc toy was analysed to explain the increase in frequency of acoustic signal produced(commonly termed as 'ringing') as it's inclination decreases, the extended duration of time taken to settle down and the abrupt nature with which the motion stops. An approach based on modelling the effect of frictional dissipation on the the disc's rigid body motion is pursued.  
   A youtube [video](https://www.youtube.com/watch?v=rFtYzVJcWyA) showing the toy's characteristic peculiar behaviour.    
   The model in MATLAB showing the trajectory of the toy and its increase in frequency([GitHub repo](https://github.com/anvitha-s/Eulers-Disc)), which was made starting from the [MATLAB code](https://rotations.berkeley.edu/the-rolling-disk/) for an ideal rolling disc.  
-  Project report.
+  Project [report](https://bighome.iitb.ac.in/index.php/s/LFzGl91dESq2g6K).
 ### Parallelising numerical computation of 1d wave solutions
   For my course project in *High Performance Scientific Computing* I looked at implementing parallelising the computation of numerical solutions for 1D wave solutions.  
   Project Abstract:  
@@ -65,7 +65,8 @@ respiration
   Project [report](https://bighome.iitb.ac.in/index.php/s/6kgLRfz4SOimuFi).
 
 ### Motion of Molecular Motors
-  I modeled the motion of molecular motors as a particle whose motion is described by the Langevin equation but with a fluctuating potential fields. The net motion arising from forces in an extended ratchet of two asymmetric sawtooth potentials was simulated.  
+  I modeled the motion of molecular motors as a particle whose motion is described by the Langevin equation but with a fluctuating potential fields. The net motion arising from forces in an extended ratchet of two asymmetric sawtooth potentials was simulated. 
+  [GitHub repo](https://github.com/anvitha-s/motor-model).
   Important references:
   - Jülicher, F., Ajdari, A., & Prost, J. (1997). Modeling molecular motors. *Reviews of Modern Physics, 69(4), 1269–1282. doi:10.1103/revmodphys.69.1269*
   - Parmeggiani, Andrea, Julicher, Frank, Ajdari, Armand & Prost, Jacques (1999). Energy transduction of isothermal ratchets: Generic aspects and specific examples close to and far from equilibrium. *Phys. Rev. E, 60, 2127-2140*. 
